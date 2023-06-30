@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MoowY666
-- 👀 I Crack Program
-- 🌱 I Hate PAster
-- 📫 Try My Crack
+- 👀 prog. Python, JavaScript, Java, C++, Ruby, Go, Swift, PHP, Rust, Kotlin, C#.
+- 🌱 I Hate Paster
+- 📫 Crackin paid shit and release free
